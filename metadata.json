@@ -1,0 +1,6 @@
+{
+  "name": "ToolKit Pro",
+  "description": "Fast, simple and free online tools designed to make everyday tasks easier including Calculator, Unit Converter, PDF Converter, Image Compressor, and Password Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
